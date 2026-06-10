@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "花开寻踪_游戏设定文档.md",
+                "file": "05 人物关系图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "花开寻踪_游戏设定文档"
+              "title": "05 人物关系图"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "花开寻踪_游戏设定文档.md",
+                "file": "05 人物关系图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "花开寻踪_游戏设定文档 的反向链接列表"
+              "title": "05 人物关系图 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "花开寻踪_游戏设定文档.md",
+                "file": "05 人物关系图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "花开寻踪_游戏设定文档 的出链列表"
+              "title": "05 人物关系图 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "花开寻踪_游戏设定文档.md",
+                "file": "05 人物关系图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "花开寻踪_游戏设定文档 的大纲"
+              "title": "05 人物关系图 的大纲"
             }
           }
         ]
@@ -184,5 +184,24 @@
     }
   },
   "active": "1e82e1a59dba4da5",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "15 美学风格指引.md",
+    "06 角色速查表.md",
+    "04 NPC-反派与特殊角色.md",
+    "03 NPC-正面配角.md",
+    "02 主角设定.md",
+    "01 核心定位与世界观.md",
+    "14 日常喜剧场景.md",
+    "13 玩法结构设计.md",
+    "12 幕后线索彩蛋.md",
+    "11 剧情大纲-第三幕.md",
+    "10 剧情大纲-第二幕.md",
+    "09 剧情大纲-第一幕.md",
+    "08 剧情框架（三幕）.md",
+    "07 喜好物件系统.md",
+    "花开寻踪 MOC.md",
+    "花开寻踪_游戏设定文档.md",
+    "05 人物关系图.md",
+    "README.md"
+  ]
 }
